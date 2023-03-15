@@ -1,1 +1,1 @@
-A project
+This is a Product Maintenance Open-Source DAPP for the Ethereum Blockchain. It is a simple DAPP that allows you to add, update and delete products. The basic idea is to make a funtionality for maintaining database of products, managing their lifecycle, their expiry, their issues and other features.
